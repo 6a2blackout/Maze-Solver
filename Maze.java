@@ -3,7 +3,7 @@ import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 /**
- * @author Loay Abu Saifan Student ID: 3762695
+ * @author Loay Abu Saifan
  */
 
 
