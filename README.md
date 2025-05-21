@@ -28,6 +28,8 @@ Output when there is a path through the maze:
 
 
 
+
+
 📚 What I Learned
 
 File handling in Java:
