@@ -13,6 +13,21 @@ This program takes a maze defined in a `.txt` file and solves it using a search 
 - Handles invalid or unsolvable mazes gracefully  
 - Simple, clean Java code structure for easy modification or integration
 
+
+Output:
+maze is built by having walls (1)s and the path (0)s.
+if the program found a path through the maze it will change the 0s to 2s.
+
+Output when there is no path through the Maze:
+
+<img width="309" alt="outputno" src="https://github.com/user-attachments/assets/47074f4b-f66d-4f48-ba12-ee9a2b8a7567" />
+
+Output when there is a path through the maze:
+
+<img width="415" alt="outputyes" src="https://github.com/user-attachments/assets/85cac60b-a4c0-4d30-8fd2-d0686dc14127" />
+
+
+
 📚 What I Learned
 
 File handling in Java:
