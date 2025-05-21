@@ -4,7 +4,7 @@ This is a fully functional Java program that solves mazes using text file inputs
 
 🗺️ About the Project:
 
-This program takes a maze defined in a `.txt` file and solves it using a search algorithm (e.g., DFS, BFS, or your chosen method). It reads the maze structure, identifies the start and end points, and finds a valid path through the maze.
+This program takes a maze defined in a `.txt` file and solves it using a search algorithm. It reads the maze structure, identifies the start and end points, and finds a valid path through the maze.
 
 ✅ Features:
 
@@ -14,12 +14,20 @@ This program takes a maze defined in a `.txt` file and solves it using a search 
 - Simple, clean Java code structure for easy modification or integration
 
 📚 What I Learned
-- File handling in Java: Reading structured data from .txt files and converting it into a usable format for algorithmic processing.
-- Algorithmic thinking: Applying search algorithms (like Depth-First Search or Breadth-First Search) to explore possible paths and handle backtracking.
-- Edge case handling: Validating input files, managing unsolvable mazes, and avoiding common errors like out-of-bounds access.
-- Debugging and testing: Creating multiple test mazes and verifying the accuracy and robustness of the solution.
+
+File handling in Java:
+- Reading structured data from .txt files and converting it into a usable format for algorithmic processing.
+
+Algorithmic thinking:
+- Applying search algorithms (like Depth-First Search or Breadth-First Search) to explore possible paths and handle backtracking.
+
+Edge case handling:
+- Validating input files, managing unsolvable mazes, and avoiding common errors like out-of-bounds access.
+
+Debugging and testing:
+- Creating multiple test mazes and verifying the accuracy and robustness of the solution.
 
 🧠 Future Ideas:
-- Add GUI using JavaFX or Swing
-- Allow multiple solving algorithms (DFS, BFS, A*)
-- Highlight or visualize the path
+- Add GUI using JavaFX.
+- Allow multiple solving algorithms.
+- Highlight or visualize the path.
